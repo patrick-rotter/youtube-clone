@@ -1,5 +1,5 @@
 import React from "react";
-import videos from "../data/sampleData";
+import videos from "../../data/videos";
 import VideoPreview from "./VideoPreview";
 
 const Main = () => {
