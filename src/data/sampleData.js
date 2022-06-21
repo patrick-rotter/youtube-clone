@@ -6,7 +6,8 @@ const videos = [
         channelPicture: "./channel-picture/channel-1.jpeg",
         title: "Talking Tech and AI with Google CEO Sundar Pichai!",
         author: "Marques Brownlee",
-        stats: "3.4M views &#183; 6 months ago",
+        views: "3.4M",
+        released: "6 months ago"
     },
     {
         key: 2,
@@ -15,7 +16,8 @@ const videos = [
         channelPicture: "./channel-picture/channel-2.jpeg",
         title: "Try Not To Laugh Challenge #9",
         author: "Markiplier",
-        stats: "19M views &#183; 4 years ago",
+        views: "19M",
+        released: "4 years ago"
     },
     {
         key: 3,
@@ -24,7 +26,8 @@ const videos = [
         channelPicture: "./channel-picture/channel-3.jpeg",
         title: "Crazy Tik Toks Taken Moments Before DISASTER",
         author: "SSSniperWolf",
-        stats: "12M views &#183; 1 year ago",
+        views: "12M",
+        released: "1 year ago"
     },
     {
         key: 4,
@@ -33,7 +36,8 @@ const videos = [
         channelPicture: "./channel-picture/channel-4.jpeg",
         title: "The Simplest Math Problem No One Can Solve - Collatz Conjecture",
         author: "Veritasium",
-        stats: "18M views &#183; 4 months ago",
+        views: "18M",
+        released: "4 months ago"
     },
     {
         key: 5,
@@ -42,7 +46,8 @@ const videos = [
         channelPicture: "./channel-picture/channel-5.jpeg",
         title: "Kadane's Algorithm to Maximum Sum Subarray Problem",
         author: "CS Dojo",
-        stats: "519K views &#183; 5 years ago",
+        views: "519K",
+        released: "5 years ago"
     },
     {
         key: 6,
@@ -51,7 +56,8 @@ const videos = [
         channelPicture: "./channel-picture/channel-6.jpeg",
         title: "Anything You Can Fit In The Circle I'll Pay For",
         author: "MrBeast",
-        stats: "141M views &#183; 1 year ago",
+        views: "141M",
+        released: "1 year ago"
     },
 ]
 

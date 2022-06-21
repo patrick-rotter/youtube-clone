@@ -19,7 +19,7 @@ const VideoPreview = (props) => {
         <div className="video-info">
           <p className="video-title">{props.title}</p>
           <p className="video-author">{props.author}</p>
-          <p className="video-stats">{props.stats}</p>
+          <p className="video-stats">{props.views} views &#183; {props.released}</p>
         </div>
       </div>
     </div>
