@@ -25,7 +25,6 @@ const Header = () => {
           />
           <div className="tooltip">Search</div>
         </button>
-        {/* Create tooltip: Put position: absolute in position: relativ element.  */}
         <button className="voice-search-btn">
           <img
             className="voice-search-icon"
@@ -63,7 +62,7 @@ const Header = () => {
         </div>
         <img
           className="current-user-pic"
-          src="./channel-picture/my-channel.jpeg"
+          src="./channel-picture/myPic.jpg"
           alt="Current User Pic"
         />
       </div>
