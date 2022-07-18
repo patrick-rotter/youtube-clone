@@ -1,6 +1,6 @@
 # youtube-clone
 
-This is a simple practice project of the Youtube front page using [create-react app](https://create-react-app.dev/).
+This is a simple practice project of the YouTube front page using [create-react app](https://create-react-app.dev/).
 
 ### Running the application
 
